@@ -1,3 +1,19 @@
+<h1 align="center"> Image Label Detection Using AWS </h1>
+
+<p align="center">
+  A user-friendly web application for tracing and displaying your IP address.
+</p>
+
+## Introduction
+
+IP Tracer is a straightforward web application designed to provide you with real-time information about your current IP address. Its simplicity and user-friendly interface make it a useful tool for quick IP address checks. Additionally, IP Tracer allows you to copy your IP address to the clipboard with a single click, streamlining the process.
+
+<p align="center">
+    <img src="Architecture.png" alt="Architecture" width="80%">
+  </a>
+</p>
+
+
 **Step 1: Create an AWS Lambda Function**
 
 1. **Navigate to Lambda Console**: Sign in to your AWS Management Console and navigate to the Lambda service.
