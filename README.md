@@ -17,7 +17,7 @@
 **Step 2: Configure Lambda Function**
 
 1. **Replace Default Code**:
-   - Replace the default code in the Lambda function editor with the provided Python Code
+   - Replace the default code in the Lambda function editor with [Lambda Function Code](https://github.com/keithrozario/Klayers)
 
 2. **Permissions**:
    - Ensure that the Lambda function's execution role has appropriate permissions to access AWS Rekognition. You may need to attach a policy like `AmazonRekognitionFullAccess` to the execution role.
