@@ -1,13 +1,11 @@
 <h1 align="center"> Image Label Detection Using AWS </h1>
 
-## Introduction
-
-A serverless application that detects labels in images using the AWS Rekognition, integrated with AWS Lambda functions and API Gateway. It analyses images and extracts descriptive labels with high accuracy.
-
 <p align="center">
     <img src="Architecture.png" alt="Architecture" width="80%">
   </a>
 </p>
+
+A serverless application that detects labels in images using AWS Rekognition, integrated with AWS Lambda functions and API Gateway. It analyzes images and extracts descriptive labels with high accuracy.
 
 
 **Step 1: Create an AWS Lambda Function**
